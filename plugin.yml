@@ -1,0 +1,33 @@
+name: KitPvP
+main: me.pyrodamix.kitpvp.Main
+version: 1.0
+api-version: 1.8.8
+commands:
+  discord:
+    usage: /<command>
+    aliases:
+    description: Link to the Discord
+  pvp:
+    usage: /<command>
+    aliases:
+    description: Equipt a kit
+  s2:
+    usage: /<command>
+    aliases:
+    description: Claim a stored s2
+  s2s:
+    usage: /<command>
+    aliases:
+    description: Claim a stored s2
+  stats:
+    usage: /<command>
+    aliases:
+    description: Look at your own stats. (looking at other player's stats coming soon)
+  duel:
+    usage: /<command>
+    aliases:
+    description: Duel another player in an enclosed environment.
+  duels:
+    usage: /<command>
+    aliases:
+    description: Duel another player in an enclosed environment.
