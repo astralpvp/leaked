@@ -1,0 +1,8 @@
+I do not own spigot or vault I take no credit for the dependencies just put them here to make it easier instead of downloading them also
+server has to be 1.8
+
+which I included spigot for.
+
+also on the other note
+
+these plugins are actually really bad they don't cache, nothin and its terrible the way it saves but hey go right ahead and do whatever u want with em.

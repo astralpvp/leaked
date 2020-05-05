@@ -17,6 +17,9 @@ import org.bukkit.inventory.ItemStack;
 import net.milkbowl.vault.economy.Economy;
 
 public class Commands implements CommandExecutor {
+	/**
+	 * Terrible code.
+	 */
 	public Main plugin = Main.getPlugin(Main.class);
 	@SuppressWarnings("unused")
 	private Economy economy = Main.economy;
